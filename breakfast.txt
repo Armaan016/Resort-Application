@@ -1,0 +1,11 @@
+Breakfast
+item          		cost
+1.Idli        		30
+2.Ghee idly		50
+3.Plain Dosa		60
+4.Masala Dosa		80
+5.Vada			40
+6.Oothappam		50
+7.Bread omlet		80
+8.Veg sandwich		65
+9.Egg Sandwich 		75

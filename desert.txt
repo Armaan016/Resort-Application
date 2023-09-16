@@ -1,0 +1,7 @@
+desert
+item			cost
+1.Gulab jamun  	 40		
+2.Plum cake		 35
+3.Rasmalai		 40
+4.Jalebi		 30
+5.falooda		 45

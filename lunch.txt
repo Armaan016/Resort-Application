@@ -1,0 +1,13 @@
+        Main Course
+item				cost
+1.South Indian Thali		200
+2.North Indian Thali 		200
+3.Tandoori roti 		30
+4.Paneer Butter masala		210
+5.Palak Paneer			180
+6.Veg Biryani			190
+7.Chicken Biryani 		300
+8.Mutton Curry			250
+9.Butter Chicken		200
+10.Tandoori Chicken		160
+11.Apollo fish curry		260

@@ -1,0 +1,29 @@
+        MENU
+
+	Breakfast
+item          		cost
+1.Idli        		30
+2.Ghee idly		50
+3.Plain Dosa		60
+4.Masala Dosa		80
+5.Vada			40
+6.Oothappam		50
+7.Bread omlet		80
+8.Veg sandwich		65
+9.Egg Sandwich 		75
+
+       Main Course
+item			            cost
+        Veg section
+1.South Indian Thali		    200
+2.North Indian Thali 		    200
+3.Tandoori roti 		    30
+4.Paneer Butter masala		    210
+5.Palak Paneer			    180
+6.Veg Biryani			    190
+        Non-veg section
+7.Chicken Biryani 		    300
+8.Mutton Curry			    250
+9.Butter Chicken		    200
+10.Tandoori Chicken		    160
+11.Apollo fish curry		    260

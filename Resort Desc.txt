@@ -1,0 +1,8 @@
+                                          **Welcome to Blue Waves Resort**
+Succumb to a tranquil state of mind in one of the best resorts in Hyderabad. Relax, rejuvenate and celebrate in style with world-class amenities, decadent food & beverage, and pure opulence in the lap of nature. With Blue Waves Resort, discover perfect holidays filled with luxury hospitality at incredibly affordable rates, steal quality time away with loved ones, and take home lasting memories of culture, flavours, nightlife, and stunning sunsets frozen in time.
+Would you want to Login/Register?
+1.Login
+2.Register
+3.About Us
+4.Contact Us
+5.exit
